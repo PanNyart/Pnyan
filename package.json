@@ -1,0 +1,12 @@
+{
+  "name": "Nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Nya.js",
+  "scripts": {
+  "start": "node Nya.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
